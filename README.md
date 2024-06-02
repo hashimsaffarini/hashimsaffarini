@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&colorA=0e75b6&colorB=4b6cb7)
-<h3 align="center">Computer Engineering Student</h3>
+<h1 align="center">Computer Engineering Student</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimsaffarini&label=Profile%20views&color=0e75b6&style=flat" alt="hashimsaffarini" /> </p>
 
