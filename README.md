@@ -68,9 +68,10 @@
 </p>
 <p align="left">
     <a href="https://play.google.com/store/apps/details?id=com.saffarini.hashim_store&pcampaignid=web_share" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Hashim Store" height="50" />
+        <img align="center" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Hashim Store" height="30" />
     </a>
 </p>
+
 
 ---
 
