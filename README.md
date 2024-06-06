@@ -56,7 +56,7 @@
 
 ---
 
-### Samples from my projects:
+## Samples from my projects:
 
 ### Hashim Store
 
