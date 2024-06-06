@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&colorA=0e75b6&colorB=4b6cb7)
+
 <h1 align="center">Computer Engineering Student (Pro Max)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimsaffarini&label=Profile%20views&color=0e75b6&style=flat" alt="hashimsaffarini" /> </p>
 
 - 👨‍💻 I’m currently working on **Mobile software development & Course trainer**
@@ -19,8 +21,57 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a> 
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+    </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
+</p>
+
+---
+
+### Samples from my projects:
+
+### Hashim Store
+
+<p><p>
+    تطبيق Hashim Store هو تطبيق لمحل ملابس يخدم كل أفراد العائله ويوفر التطبيق مجموعة ميزات لتسهيل تجربة التسوق، مثل خاصية البحث الي بتمكن المستخدم يلاقي المنتج بسرعة، وكمان خاصية الفلترة حسب الماركة اللي بتساعدك تتصفح المنتجات بناءً على العلامات التجارية المفضلة. كمان بتقدر تتواصل مع المحل مباشرة من خلال التطبيق، وفيه صفحات تفصيلية لكل منتج مع معلومات شاملة. وبالإضافة إلى ذلك، فيه صفحة للتواصل مع المتجر لطرح الاستفسارات وتقديم الملاحظات.
+</p>
+<p>
+    لتحميل التطبيق :
+</p>
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.saffarini.hashim_store&pcampaignid=web_share" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Hashim Store" height="50" />
+    </a>
+</p>
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimsaffarini&show_icons=true&locale=en&layout=compact" alt="hashimsaffarini" /></p>
-
-
