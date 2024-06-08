@@ -52,6 +52,9 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
 </p>
 
 ---
@@ -60,18 +63,17 @@
 
 ## Hashim Store
 
-<p><p>
-    تطبيق Hashim Store هو تطبيق لمحل ملابس يخدم كل أفراد العائله ويوفر التطبيق مجموعة ميزات لتسهيل تجربة التسوق، مثل خاصية البحث الي بتمكن المستخدم يلاقي المنتج بسرعة، وكمان خاصية الفلترة حسب الماركة اللي بتساعدك تتصفح المنتجات بناءً على العلامات التجارية المفضلة. كمان بتقدر تتواصل مع المحل مباشرة من خلال التطبيق، وفيه صفحات تفصيلية لكل منتج مع معلومات شاملة. وبالإضافة إلى ذلك، فيه صفحة للتواصل مع المتجر لطرح الاستفسارات وتقديم الملاحظات.
+<p>
+    تطبيق Hashim Store هو تطبيق لمحل ملابس يخدم كل أفراد العائلة ويوفر التطبيق مجموعة ميزات لتسهيل تجربة التسوق، مثل خاصية البحث التي تمكن المستخدم من العثور على المنتج بسرعة، وكذلك خاصية الفلترة حسب الماركة التي تساعدك في تصفح المنتجات بناءً على العلامات التجارية المفضلة. كما يمكنك التواصل مع المحل مباشرة من خلال التطبيق، وتوجد صفحات تفصيلية لكل منتج مع معلومات شاملة. بالإضافة إلى ذلك، هناك صفحة للتواصل مع المتجر لطرح الاستفسارات وتقديم الملاحظات.
 </p>
 <p>
-    لتحميل التطبيق :
+    لتحميل التطبيق:
 </p>
 <p align="left">
     <a href="https://play.google.com/store/apps/details?id=com.saffarini.hashim_store&pcampaignid=web_share" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Hashim Store" height="30" />
     </a>
 </p>
-
 
 ---
 
