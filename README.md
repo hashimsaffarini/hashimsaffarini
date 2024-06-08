@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
+
+
 
 
 
@@ -88,5 +90,6 @@
 </p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=111&section=footer)
+
 
