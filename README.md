@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&colorA=0e75b6&colorB=4b6cb7)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
+
+
+
 
 <h1 align="center">Computer Engineering Student (Pro Max)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
