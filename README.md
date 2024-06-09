@@ -1,10 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
 
-
-
-
-
-
 <h1 align="center">Computer Engineering Student (Pro Max)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -60,6 +55,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/>
+    </a>
 </p>
 
 ---
@@ -89,10 +87,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimsaffarini&theme=github_dark&hide_border=true&border_color=00bfff" alt="Hashim's GitHub Stats" width="545"/>
 </p>
 
-
-
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=111&section=footer)
-
-
