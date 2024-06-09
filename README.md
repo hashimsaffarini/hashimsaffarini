@@ -85,9 +85,11 @@
 ## GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimsaffarini&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt="Hashim's Top Languages" width="350"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimsaffarini&theme=gruvbox&hide_border=true" alt="Hashim's GitHub Stats" width="545"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimsaffarini&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&theme=dracula" alt="Hashim's Top Languages" width="350"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimsaffarini&theme=dracula&hide_border=true" alt="Hashim's GitHub Stats" width="545"/>
 </p>
+
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=111&section=footer)
