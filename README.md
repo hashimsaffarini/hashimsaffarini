@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimsaffarini&label=Profile%20views&color=0e75b6&style=flat" alt="hashimsaffarini" /> </p>
 
-- 🚀 I’m currently working on **Mobile software development & Course trainer**
+- 🚀 I’m currently working on **Mobile software development & Backend development & Course trainer**
 
 - 💬 Ask me about **Flutter & Problem solving**
 
