@@ -93,7 +93,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimsaffarini&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&border_color=00bfff" alt="Hashim's Top Languages" width="350"/>
