@@ -84,6 +84,8 @@
     </a>
 </p>
 
+---
+
 # 📦 My Flutter Package:
 - **`User_Avatar_Generator`** A package for generating customizable, text-based avatars using initials, symbols, and more—perfect for apps needing personalized user representations with easy integration and rich customization.
 
