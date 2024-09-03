@@ -68,7 +68,7 @@
 
 ---
 
-## Samples from my projects :
+# 🛠 Samples from my projects :
 
 ## Hashim Store
 
@@ -83,6 +83,11 @@
         <img align="center" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Hashim Store" height="30" />
     </a>
 </p>
+
+# 📦 My Flutter Package:
+- **`User_Avatar_Generator`** A package for generating customizable, text-based avatars using initials, symbols, and more—perfect for apps needing personalized user representations with easy integration and rich customization.
+
+🔗 [Check it out on Pub.dev](https://pub.dev/packages/user_avatar_generator)
 
 ---
 
