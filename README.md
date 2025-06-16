@@ -52,18 +52,17 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40" style="filter: invert(100%);"/>
-    </a>
-    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
+   <a href="https://swift.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+</a>
+
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/473837/xcode.svg" alt="xcode" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
