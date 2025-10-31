@@ -1,99 +1,68 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hashim%20Saffarini!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
+# Hi, I'm Hashim Saffarini
 
-<h1 align="center">Computer Engineering Student (Pro Max)</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Profile Views](https://komarev.com/ghpvc/?username=hashimsaffarini&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/hashimsaffarini)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimsaffarini&label=Profile%20views&color=0e75b6&style=flat" alt="hashimsaffarini" /> </p>
-
-- 🚀 I’m currently working on **Mobile software development & Course trainer**
-
-- 💬 Ask me about **Flutter & Problem solving**
-
-- 📫 How to reach me **hashimsaffarini044@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hashim-saffarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim-saffarini" height="30" width="40" /></a>
-<a href="https://fb.com/hashim.saffarini.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashim.saffarini.3" height="30" width="40" /></a>
-<a href="https://instagram.com/hashim.saffarini1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashim.saffarini1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/hashimsaffarini044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/hashimsaffarini044" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hashimomarsaffarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hashimomarsaffarini" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-   <a href="https://swift.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-</a>
-
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/473837/xcode.svg" alt="xcode" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-
-</p>
+💻 Mobile Engineer | iOS & Flutter  
+Developing scalable, high-performance mobile applications with clean architecture and seamless user experience.
 
 ---
 
-# 🛠 Samples from my projects :
+## 👨🏻‍💼 About Me
 
-## Hashim Store
+I’m **Hashim Saffarini**, a **Mobile Engineer** with over **2 years of experience** in developing scalable Flutter applications — recently expanding into **native iOS development** using **UIKit** and **SwiftUI**.  
+I currently lead the **Noqta Team**, where I manage app development, guide engineers, and ensure smooth delivery with high-quality standards.  
+
+Alongside development, I’ve been a **Course Trainer for 4 years**, teaching **C++, Java, Data Structures, OOP, and Algorithms**, helping students master core programming concepts and problem-solving.
+
+---
+
+## ⚙️ Tech Stack
+
+- Cross-platform: **Flutter**, **Dart**  
+- iOS Development: **Swift**, **UIKit**, **SwiftUI**, **Xcode**  
+- Backend & Services: **Firebase**, **REST APIs**  
+- Architecture & Patterns: **MVC**, **MVVM**, **Clean Architecture**  
+- Tools: **Git**, **GitHub**, **Visual Studio Code**, **Postman**, **Figma**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ PalCart – Palestinian Shopping Platform  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/il/app/palcart-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9/id6745847082)  
+PalCart unites **Palestinian stores** into a single digital marketplace — allowing users to **browse, order, and support local businesses** across the country.  
+Built to enhance accessibility and strengthen the connection between **customers and Palestinian merchants** through a smooth and modern mobile experience.
+
+### 👕 Hashim Store  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.saffarini.hashim_store)  
+A shopping app offering a wide range of fashion and accessories for families, with a simple and user-friendly interface designed to make the browsing and buying experience effortless.
+
+### 🧩 Open Source Package: User Avatar Generator  
+[![Pub.dev](https://img.shields.io/pub/v/user_avatar_generator?style=for-the-badge&logo=dart&logoColor=white&label=pub.dev&color=0175C2)](https://pub.dev/packages/user_avatar_generator)  
+A Flutter package that generates **customizable text-based user avatars**, designed to simplify user profile visuals in mobile apps.
+
+---
+
+## 🌐 Connect With Me
 
 <p>
-    تطبيق Hashim Store هو تطبيق لمحل ملابس يخدم كل أفراد العائلة ويوفر التطبيق مجموعة ميزات لتسهيل تجربة التسوق، مثل خاصية البحث التي تمكن المستخدم من العثور على المنتج بسرعة، وكذلك خاصية الفلترة حسب الماركة التي تساعدك في تصفح المنتجات بناءً على العلامات التجارية المفضلة. كما يمكنك التواصل مع المحل مباشرة من خلال التطبيق، وتوجد صفحات تفصيلية لكل منتج مع معلومات شاملة. بالإضافة إلى ذلك، هناك صفحة للتواصل مع المتجر لطرح الاستفسارات وتقديم الملاحظات.
-</p>
-<p>
-    لتحميل التطبيق:
-</p>
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.saffarini.hashim_store&pcampaignid=web_share" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Hashim Store" height="30" />
-    </a>
+  <a href="https://linkedin.com/in/hashim-saffarini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="mailto:hashimsaffarini044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+  </a>
+  <a href="https://www.youtube.com/@hashimsaffarini/featured" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35"/>
+  </a>
+  <a href="https://leetcode.com/hashimomarsaffarini" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/>
+  </a>
+  <a href="https://codeforces.com/profile/hashimsaffarini044" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="35"/>
+  </a>
 </p>
 
 ---
 
-# 📦 My Flutter Package:
-- **`User_Avatar_Generator`** A package for generating customizable, text-based avatars using initials, symbols, and more—perfect for apps needing personalized user representations with easy integration and rich customization.
-
-🔗 [Check it out on Pub.dev](https://pub.dev/packages/user_avatar_generator)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimsaffarini&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&border_color=00bfff" alt="Hashim's Top Languages" width="350"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimsaffarini&theme=github_dark&hide_border=true&border_color=00bfff" alt="Hashim's GitHub Stats" width="545"/>
-</p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=111&section=footer)
+> “I build mobile experiences that are fast, scalable, and intuitive — delivering value with every tap.”
