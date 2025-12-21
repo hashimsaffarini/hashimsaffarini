@@ -20,7 +20,7 @@ Alongside development, I’ve been a **Course Trainer for 4 years**, teaching **
 
 - Cross-platform: **Flutter**, **Dart**  
 - iOS Development: **Swift**, **UIKit**, **SwiftUI**, **Xcode**  
-- Backend & Services: **Firebase**, **REST APIs**  
+- Backend & Services: **Firebase**, **Supabase**, **REST APIs**  
 - Architecture & Patterns: **MVC**, **MVVM**, **Clean Architecture**  
 - Tools: **Git**, **GitHub**, **Visual Studio Code**, **Postman**, **Figma**
 
