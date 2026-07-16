@@ -4,7 +4,7 @@
 
 💻 **Flutter Software Engineer | iOS & Android**
 
-Building production mobile applications across media, education, commerce, and interactive experiences.
+Building scalable, reliable, and user-focused mobile applications for iOS and Android.
 
 ---
 
