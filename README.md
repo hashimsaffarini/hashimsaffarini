@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hashimsaffarini&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/hashimsaffarini)
 
-💻 **Flutter Software Engineer | iOS & Android**
+💻 **Software Engineer | iOS & Flutter Development**
 
 Building scalable, reliable, and user-focused mobile applications for iOS and Android.
 
@@ -10,24 +10,25 @@ Building scalable, reliable, and user-focused mobile applications for iOS and An
 
 ## 👨🏻‍💼 About Me
 
-I’m a **Flutter Software Engineer** focused on building, shipping, and maintaining production applications for iOS and Android.
+I’m a **Software Engineer** specializing in **Native iOS and Flutter development**, with hands-on experience designing, building, shipping, and maintaining production applications.
 
-I currently work on the **Ashams mobile application** and lead the mobile development of **Tawjihi AI**, an educational product I founded.
+I’ve contributed to the **Ashams mobile application** and founded **Tawjihi AI**, gaining experience in software architecture, mobile engineering, technical problem-solving, and end-to-end product development.
 
-My experience includes Flutter architecture, Firebase, Supabase, REST APIs, push notifications, analytics, monetization, native platform integrations, Apple CarPlay, Android Auto, and mobile release workflows.
+My expertise includes Swift, SwiftUI, Flutter, Dart, Clean Architecture, Firebase, Supabase, REST APIs, native platform integrations, performance optimization, and mobile release workflows.
 
-Alongside development, I teach programming and computer science topics including C++, Java, OOP, Data Structures, Algorithms, Flutter, and Dart.
+Beyond development, I have **4+ years of experience teaching programming and computer science**, including C++, Java, OOP, Data Structures, Algorithms, and mobile development.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Mobile:** Flutter, Dart, BLoC/Cubit, Clean Architecture, MVVM  
+**Languages:** Swift, Dart, Java, C++  
+**iOS Development:** SwiftUI, UIKit, Xcode, Swift Concurrency  
+**Cross-Platform:** Flutter, BLoC/Cubit  
+**Software Engineering:** OOP, Data Structures & Algorithms, SOLID Principles, Design Patterns, Clean Architecture, MVVM  
 **Services:** Firebase, Supabase, REST APIs, Local Storage  
-**Integrations:** Apple CarPlay, Android Auto, Deep Linking, Background Audio  
-**Monetization:** Google Ad Manager, AdMob  
-**Languages:** Dart, Java, C++, Swift  
-**Tools:** Git, GitHub, Xcode, Android Studio, Postman, Jira, Figma
+**Platform Integrations:** Apple CarPlay, Android Auto, Deep Linking, Background Audio, Push Notifications  
+**Tools:** Git, GitHub, Android Studio, Postman, Jira, Figma
 
 ---
 
